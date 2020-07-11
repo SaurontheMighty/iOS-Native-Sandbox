@@ -1,14 +1,14 @@
 //
-//  iOS_Native_SandboxUITests.swift
-//  iOS-Native-SandboxUITests
+//  iOS_SandboxUITests.swift
+//  iOS-SandboxUITests
 //
-//  Created by Joseph on 02/07/20.
+//  Created by Joseph on 11/07/20.
 //  Copyright © 2020 Ashish. All rights reserved.
 //
 
 import XCTest
 
-class iOS_Native_SandboxUITests: XCTestCase {
+class iOS_SandboxUITests: XCTestCase {
 
     override func setUpWithError() throws {
         // Put setup code here. This method is called before the invocation of each test method in the class.
