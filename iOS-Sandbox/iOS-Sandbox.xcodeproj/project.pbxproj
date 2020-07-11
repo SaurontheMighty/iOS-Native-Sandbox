@@ -7,66 +7,66 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		D8727AF324BA393900D1A524 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8727AF224BA393900D1A524 /* AppDelegate.swift */; };
-		D8727AF524BA393900D1A524 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8727AF424BA393900D1A524 /* SceneDelegate.swift */; };
-		D8727AF724BA393900D1A524 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8727AF624BA393900D1A524 /* ViewController.swift */; };
-		D8727AFA24BA393900D1A524 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D8727AF824BA393900D1A524 /* Main.storyboard */; };
-		D8727AFC24BA393E00D1A524 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D8727AFB24BA393E00D1A524 /* Assets.xcassets */; };
-		D8727AFF24BA393E00D1A524 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D8727AFD24BA393E00D1A524 /* LaunchScreen.storyboard */; };
-		D8727B0A24BA393E00D1A524 /* iOS_SandboxTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8727B0924BA393E00D1A524 /* iOS_SandboxTests.swift */; };
-		D8727B1524BA393E00D1A524 /* iOS_SandboxUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8727B1424BA393E00D1A524 /* iOS_SandboxUITests.swift */; };
+		D85C13BF24BA4FBF00E6E1B6 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D85C13BE24BA4FBF00E6E1B6 /* AppDelegate.swift */; };
+		D85C13C124BA4FBF00E6E1B6 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D85C13C024BA4FBF00E6E1B6 /* SceneDelegate.swift */; };
+		D85C13C324BA4FBF00E6E1B6 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D85C13C224BA4FBF00E6E1B6 /* ContentView.swift */; };
+		D85C13C524BA4FC100E6E1B6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D85C13C424BA4FC100E6E1B6 /* Assets.xcassets */; };
+		D85C13C824BA4FC100E6E1B6 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D85C13C724BA4FC100E6E1B6 /* Preview Assets.xcassets */; };
+		D85C13CB24BA4FC100E6E1B6 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D85C13C924BA4FC100E6E1B6 /* LaunchScreen.storyboard */; };
+		D85C13D624BA4FC100E6E1B6 /* iOS_SandboxTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D85C13D524BA4FC100E6E1B6 /* iOS_SandboxTests.swift */; };
+		D85C13E124BA4FC100E6E1B6 /* iOS_SandboxUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D85C13E024BA4FC100E6E1B6 /* iOS_SandboxUITests.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		D8727B0624BA393E00D1A524 /* PBXContainerItemProxy */ = {
+		D85C13D224BA4FC100E6E1B6 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = D8727AE724BA393900D1A524 /* Project object */;
+			containerPortal = D85C13B324BA4FBF00E6E1B6 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = D8727AEE24BA393900D1A524;
+			remoteGlobalIDString = D85C13BA24BA4FBF00E6E1B6;
 			remoteInfo = "iOS-Sandbox";
 		};
-		D8727B1124BA393E00D1A524 /* PBXContainerItemProxy */ = {
+		D85C13DD24BA4FC100E6E1B6 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = D8727AE724BA393900D1A524 /* Project object */;
+			containerPortal = D85C13B324BA4FBF00E6E1B6 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = D8727AEE24BA393900D1A524;
+			remoteGlobalIDString = D85C13BA24BA4FBF00E6E1B6;
 			remoteInfo = "iOS-Sandbox";
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		D8727AEF24BA393900D1A524 /* iOS-Sandbox.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "iOS-Sandbox.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		D8727AF224BA393900D1A524 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		D8727AF424BA393900D1A524 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		D8727AF624BA393900D1A524 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		D8727AF924BA393900D1A524 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		D8727AFB24BA393E00D1A524 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		D8727AFE24BA393E00D1A524 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		D8727B0024BA393E00D1A524 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		D8727B0524BA393E00D1A524 /* iOS-SandboxTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "iOS-SandboxTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
-		D8727B0924BA393E00D1A524 /* iOS_SandboxTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = iOS_SandboxTests.swift; sourceTree = "<group>"; };
-		D8727B0B24BA393E00D1A524 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		D8727B1024BA393E00D1A524 /* iOS-SandboxUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "iOS-SandboxUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
-		D8727B1424BA393E00D1A524 /* iOS_SandboxUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = iOS_SandboxUITests.swift; sourceTree = "<group>"; };
-		D8727B1624BA393E00D1A524 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D85C13BB24BA4FBF00E6E1B6 /* iOS-Sandbox.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "iOS-Sandbox.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		D85C13BE24BA4FBF00E6E1B6 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		D85C13C024BA4FBF00E6E1B6 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
+		D85C13C224BA4FBF00E6E1B6 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		D85C13C424BA4FC100E6E1B6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		D85C13C724BA4FC100E6E1B6 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		D85C13CA24BA4FC100E6E1B6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		D85C13CC24BA4FC100E6E1B6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D85C13D124BA4FC100E6E1B6 /* iOS-SandboxTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "iOS-SandboxTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		D85C13D524BA4FC100E6E1B6 /* iOS_SandboxTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = iOS_SandboxTests.swift; sourceTree = "<group>"; };
+		D85C13D724BA4FC100E6E1B6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D85C13DC24BA4FC100E6E1B6 /* iOS-SandboxUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "iOS-SandboxUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		D85C13E024BA4FC100E6E1B6 /* iOS_SandboxUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = iOS_SandboxUITests.swift; sourceTree = "<group>"; };
+		D85C13E224BA4FC100E6E1B6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		D8727AEC24BA393900D1A524 /* Frameworks */ = {
+		D85C13B824BA4FBF00E6E1B6 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		D8727B0224BA393E00D1A524 /* Frameworks */ = {
+		D85C13CE24BA4FC100E6E1B6 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		D8727B0D24BA393E00D1A524 /* Frameworks */ = {
+		D85C13D924BA4FC100E6E1B6 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -76,54 +76,62 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		D8727AE624BA393900D1A524 = {
+		D85C13B224BA4FBF00E6E1B6 = {
 			isa = PBXGroup;
 			children = (
-				D8727AF124BA393900D1A524 /* iOS-Sandbox */,
-				D8727B0824BA393E00D1A524 /* iOS-SandboxTests */,
-				D8727B1324BA393E00D1A524 /* iOS-SandboxUITests */,
-				D8727AF024BA393900D1A524 /* Products */,
+				D85C13BD24BA4FBF00E6E1B6 /* iOS-Sandbox */,
+				D85C13D424BA4FC100E6E1B6 /* iOS-SandboxTests */,
+				D85C13DF24BA4FC100E6E1B6 /* iOS-SandboxUITests */,
+				D85C13BC24BA4FBF00E6E1B6 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		D8727AF024BA393900D1A524 /* Products */ = {
+		D85C13BC24BA4FBF00E6E1B6 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				D8727AEF24BA393900D1A524 /* iOS-Sandbox.app */,
-				D8727B0524BA393E00D1A524 /* iOS-SandboxTests.xctest */,
-				D8727B1024BA393E00D1A524 /* iOS-SandboxUITests.xctest */,
+				D85C13BB24BA4FBF00E6E1B6 /* iOS-Sandbox.app */,
+				D85C13D124BA4FC100E6E1B6 /* iOS-SandboxTests.xctest */,
+				D85C13DC24BA4FC100E6E1B6 /* iOS-SandboxUITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		D8727AF124BA393900D1A524 /* iOS-Sandbox */ = {
+		D85C13BD24BA4FBF00E6E1B6 /* iOS-Sandbox */ = {
 			isa = PBXGroup;
 			children = (
-				D8727AF224BA393900D1A524 /* AppDelegate.swift */,
-				D8727AF424BA393900D1A524 /* SceneDelegate.swift */,
-				D8727AF624BA393900D1A524 /* ViewController.swift */,
-				D8727AF824BA393900D1A524 /* Main.storyboard */,
-				D8727AFB24BA393E00D1A524 /* Assets.xcassets */,
-				D8727AFD24BA393E00D1A524 /* LaunchScreen.storyboard */,
-				D8727B0024BA393E00D1A524 /* Info.plist */,
+				D85C13BE24BA4FBF00E6E1B6 /* AppDelegate.swift */,
+				D85C13C024BA4FBF00E6E1B6 /* SceneDelegate.swift */,
+				D85C13C224BA4FBF00E6E1B6 /* ContentView.swift */,
+				D85C13C424BA4FC100E6E1B6 /* Assets.xcassets */,
+				D85C13C924BA4FC100E6E1B6 /* LaunchScreen.storyboard */,
+				D85C13CC24BA4FC100E6E1B6 /* Info.plist */,
+				D85C13C624BA4FC100E6E1B6 /* Preview Content */,
 			);
 			path = "iOS-Sandbox";
 			sourceTree = "<group>";
 		};
-		D8727B0824BA393E00D1A524 /* iOS-SandboxTests */ = {
+		D85C13C624BA4FC100E6E1B6 /* Preview Content */ = {
 			isa = PBXGroup;
 			children = (
-				D8727B0924BA393E00D1A524 /* iOS_SandboxTests.swift */,
-				D8727B0B24BA393E00D1A524 /* Info.plist */,
+				D85C13C724BA4FC100E6E1B6 /* Preview Assets.xcassets */,
+			);
+			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		D85C13D424BA4FC100E6E1B6 /* iOS-SandboxTests */ = {
+			isa = PBXGroup;
+			children = (
+				D85C13D524BA4FC100E6E1B6 /* iOS_SandboxTests.swift */,
+				D85C13D724BA4FC100E6E1B6 /* Info.plist */,
 			);
 			path = "iOS-SandboxTests";
 			sourceTree = "<group>";
 		};
-		D8727B1324BA393E00D1A524 /* iOS-SandboxUITests */ = {
+		D85C13DF24BA4FC100E6E1B6 /* iOS-SandboxUITests */ = {
 			isa = PBXGroup;
 			children = (
-				D8727B1424BA393E00D1A524 /* iOS_SandboxUITests.swift */,
-				D8727B1624BA393E00D1A524 /* Info.plist */,
+				D85C13E024BA4FC100E6E1B6 /* iOS_SandboxUITests.swift */,
+				D85C13E224BA4FC100E6E1B6 /* Info.plist */,
 			);
 			path = "iOS-SandboxUITests";
 			sourceTree = "<group>";
@@ -131,13 +139,13 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		D8727AEE24BA393900D1A524 /* iOS-Sandbox */ = {
+		D85C13BA24BA4FBF00E6E1B6 /* iOS-Sandbox */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = D8727B1924BA393E00D1A524 /* Build configuration list for PBXNativeTarget "iOS-Sandbox" */;
+			buildConfigurationList = D85C13E524BA4FC100E6E1B6 /* Build configuration list for PBXNativeTarget "iOS-Sandbox" */;
 			buildPhases = (
-				D8727AEB24BA393900D1A524 /* Sources */,
-				D8727AEC24BA393900D1A524 /* Frameworks */,
-				D8727AED24BA393900D1A524 /* Resources */,
+				D85C13B724BA4FBF00E6E1B6 /* Sources */,
+				D85C13B824BA4FBF00E6E1B6 /* Frameworks */,
+				D85C13B924BA4FBF00E6E1B6 /* Resources */,
 			);
 			buildRules = (
 			);
@@ -145,69 +153,69 @@
 			);
 			name = "iOS-Sandbox";
 			productName = "iOS-Sandbox";
-			productReference = D8727AEF24BA393900D1A524 /* iOS-Sandbox.app */;
+			productReference = D85C13BB24BA4FBF00E6E1B6 /* iOS-Sandbox.app */;
 			productType = "com.apple.product-type.application";
 		};
-		D8727B0424BA393E00D1A524 /* iOS-SandboxTests */ = {
+		D85C13D024BA4FC100E6E1B6 /* iOS-SandboxTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = D8727B1C24BA393E00D1A524 /* Build configuration list for PBXNativeTarget "iOS-SandboxTests" */;
+			buildConfigurationList = D85C13E824BA4FC100E6E1B6 /* Build configuration list for PBXNativeTarget "iOS-SandboxTests" */;
 			buildPhases = (
-				D8727B0124BA393E00D1A524 /* Sources */,
-				D8727B0224BA393E00D1A524 /* Frameworks */,
-				D8727B0324BA393E00D1A524 /* Resources */,
+				D85C13CD24BA4FC100E6E1B6 /* Sources */,
+				D85C13CE24BA4FC100E6E1B6 /* Frameworks */,
+				D85C13CF24BA4FC100E6E1B6 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				D8727B0724BA393E00D1A524 /* PBXTargetDependency */,
+				D85C13D324BA4FC100E6E1B6 /* PBXTargetDependency */,
 			);
 			name = "iOS-SandboxTests";
 			productName = "iOS-SandboxTests";
-			productReference = D8727B0524BA393E00D1A524 /* iOS-SandboxTests.xctest */;
+			productReference = D85C13D124BA4FC100E6E1B6 /* iOS-SandboxTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		D8727B0F24BA393E00D1A524 /* iOS-SandboxUITests */ = {
+		D85C13DB24BA4FC100E6E1B6 /* iOS-SandboxUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = D8727B1F24BA393E00D1A524 /* Build configuration list for PBXNativeTarget "iOS-SandboxUITests" */;
+			buildConfigurationList = D85C13EB24BA4FC100E6E1B6 /* Build configuration list for PBXNativeTarget "iOS-SandboxUITests" */;
 			buildPhases = (
-				D8727B0C24BA393E00D1A524 /* Sources */,
-				D8727B0D24BA393E00D1A524 /* Frameworks */,
-				D8727B0E24BA393E00D1A524 /* Resources */,
+				D85C13D824BA4FC100E6E1B6 /* Sources */,
+				D85C13D924BA4FC100E6E1B6 /* Frameworks */,
+				D85C13DA24BA4FC100E6E1B6 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				D8727B1224BA393E00D1A524 /* PBXTargetDependency */,
+				D85C13DE24BA4FC100E6E1B6 /* PBXTargetDependency */,
 			);
 			name = "iOS-SandboxUITests";
 			productName = "iOS-SandboxUITests";
-			productReference = D8727B1024BA393E00D1A524 /* iOS-SandboxUITests.xctest */;
+			productReference = D85C13DC24BA4FC100E6E1B6 /* iOS-SandboxUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		D8727AE724BA393900D1A524 /* Project object */ = {
+		D85C13B324BA4FBF00E6E1B6 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 1150;
 				LastUpgradeCheck = 1150;
 				ORGANIZATIONNAME = Ashish;
 				TargetAttributes = {
-					D8727AEE24BA393900D1A524 = {
+					D85C13BA24BA4FBF00E6E1B6 = {
 						CreatedOnToolsVersion = 11.5;
 					};
-					D8727B0424BA393E00D1A524 = {
+					D85C13D024BA4FC100E6E1B6 = {
 						CreatedOnToolsVersion = 11.5;
-						TestTargetID = D8727AEE24BA393900D1A524;
+						TestTargetID = D85C13BA24BA4FBF00E6E1B6;
 					};
-					D8727B0F24BA393E00D1A524 = {
+					D85C13DB24BA4FC100E6E1B6 = {
 						CreatedOnToolsVersion = 11.5;
-						TestTargetID = D8727AEE24BA393900D1A524;
+						TestTargetID = D85C13BA24BA4FBF00E6E1B6;
 					};
 				};
 			};
-			buildConfigurationList = D8727AEA24BA393900D1A524 /* Build configuration list for PBXProject "iOS-Sandbox" */;
+			buildConfigurationList = D85C13B624BA4FBF00E6E1B6 /* Build configuration list for PBXProject "iOS-Sandbox" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -215,37 +223,37 @@
 				en,
 				Base,
 			);
-			mainGroup = D8727AE624BA393900D1A524;
-			productRefGroup = D8727AF024BA393900D1A524 /* Products */;
+			mainGroup = D85C13B224BA4FBF00E6E1B6;
+			productRefGroup = D85C13BC24BA4FBF00E6E1B6 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				D8727AEE24BA393900D1A524 /* iOS-Sandbox */,
-				D8727B0424BA393E00D1A524 /* iOS-SandboxTests */,
-				D8727B0F24BA393E00D1A524 /* iOS-SandboxUITests */,
+				D85C13BA24BA4FBF00E6E1B6 /* iOS-Sandbox */,
+				D85C13D024BA4FC100E6E1B6 /* iOS-SandboxTests */,
+				D85C13DB24BA4FC100E6E1B6 /* iOS-SandboxUITests */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		D8727AED24BA393900D1A524 /* Resources */ = {
+		D85C13B924BA4FBF00E6E1B6 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D8727AFF24BA393E00D1A524 /* LaunchScreen.storyboard in Resources */,
-				D8727AFC24BA393E00D1A524 /* Assets.xcassets in Resources */,
-				D8727AFA24BA393900D1A524 /* Main.storyboard in Resources */,
+				D85C13CB24BA4FC100E6E1B6 /* LaunchScreen.storyboard in Resources */,
+				D85C13C824BA4FC100E6E1B6 /* Preview Assets.xcassets in Resources */,
+				D85C13C524BA4FC100E6E1B6 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		D8727B0324BA393E00D1A524 /* Resources */ = {
+		D85C13CF24BA4FC100E6E1B6 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		D8727B0E24BA393E00D1A524 /* Resources */ = {
+		D85C13DA24BA4FC100E6E1B6 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -255,60 +263,52 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		D8727AEB24BA393900D1A524 /* Sources */ = {
+		D85C13B724BA4FBF00E6E1B6 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D8727AF724BA393900D1A524 /* ViewController.swift in Sources */,
-				D8727AF324BA393900D1A524 /* AppDelegate.swift in Sources */,
-				D8727AF524BA393900D1A524 /* SceneDelegate.swift in Sources */,
+				D85C13BF24BA4FBF00E6E1B6 /* AppDelegate.swift in Sources */,
+				D85C13C124BA4FBF00E6E1B6 /* SceneDelegate.swift in Sources */,
+				D85C13C324BA4FBF00E6E1B6 /* ContentView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		D8727B0124BA393E00D1A524 /* Sources */ = {
+		D85C13CD24BA4FC100E6E1B6 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D8727B0A24BA393E00D1A524 /* iOS_SandboxTests.swift in Sources */,
+				D85C13D624BA4FC100E6E1B6 /* iOS_SandboxTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		D8727B0C24BA393E00D1A524 /* Sources */ = {
+		D85C13D824BA4FC100E6E1B6 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D8727B1524BA393E00D1A524 /* iOS_SandboxUITests.swift in Sources */,
+				D85C13E124BA4FC100E6E1B6 /* iOS_SandboxUITests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		D8727B0724BA393E00D1A524 /* PBXTargetDependency */ = {
+		D85C13D324BA4FC100E6E1B6 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = D8727AEE24BA393900D1A524 /* iOS-Sandbox */;
-			targetProxy = D8727B0624BA393E00D1A524 /* PBXContainerItemProxy */;
+			target = D85C13BA24BA4FBF00E6E1B6 /* iOS-Sandbox */;
+			targetProxy = D85C13D224BA4FC100E6E1B6 /* PBXContainerItemProxy */;
 		};
-		D8727B1224BA393E00D1A524 /* PBXTargetDependency */ = {
+		D85C13DE24BA4FC100E6E1B6 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = D8727AEE24BA393900D1A524 /* iOS-Sandbox */;
-			targetProxy = D8727B1124BA393E00D1A524 /* PBXContainerItemProxy */;
+			target = D85C13BA24BA4FBF00E6E1B6 /* iOS-Sandbox */;
+			targetProxy = D85C13DD24BA4FC100E6E1B6 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
-		D8727AF824BA393900D1A524 /* Main.storyboard */ = {
+		D85C13C924BA4FC100E6E1B6 /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				D8727AF924BA393900D1A524 /* Base */,
-			);
-			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
-		D8727AFD24BA393E00D1A524 /* LaunchScreen.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				D8727AFE24BA393E00D1A524 /* Base */,
+				D85C13CA24BA4FC100E6E1B6 /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -316,7 +316,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		D8727B1724BA393E00D1A524 /* Debug */ = {
+		D85C13E324BA4FC100E6E1B6 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -376,7 +376,7 @@
 			};
 			name = Debug;
 		};
-		D8727B1824BA393E00D1A524 /* Release */ = {
+		D85C13E424BA4FC100E6E1B6 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -430,12 +430,14 @@
 			};
 			name = Release;
 		};
-		D8727B1A24BA393E00D1A524 /* Debug */ = {
+		D85C13E624BA4FC100E6E1B6 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_ASSET_PATHS = "\"iOS-Sandbox/Preview Content\"";
 				DEVELOPMENT_TEAM = J2SNXH8MK8;
+				ENABLE_PREVIEWS = YES;
 				INFOPLIST_FILE = "iOS-Sandbox/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -448,12 +450,14 @@
 			};
 			name = Debug;
 		};
-		D8727B1B24BA393E00D1A524 /* Release */ = {
+		D85C13E724BA4FC100E6E1B6 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_ASSET_PATHS = "\"iOS-Sandbox/Preview Content\"";
 				DEVELOPMENT_TEAM = J2SNXH8MK8;
+				ENABLE_PREVIEWS = YES;
 				INFOPLIST_FILE = "iOS-Sandbox/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -466,7 +470,7 @@
 			};
 			name = Release;
 		};
-		D8727B1D24BA393E00D1A524 /* Debug */ = {
+		D85C13E924BA4FC100E6E1B6 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
@@ -488,7 +492,7 @@
 			};
 			name = Debug;
 		};
-		D8727B1E24BA393E00D1A524 /* Release */ = {
+		D85C13EA24BA4FC100E6E1B6 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
@@ -510,7 +514,7 @@
 			};
 			name = Release;
 		};
-		D8727B2024BA393E00D1A524 /* Debug */ = {
+		D85C13EC24BA4FC100E6E1B6 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
@@ -530,7 +534,7 @@
 			};
 			name = Debug;
 		};
-		D8727B2124BA393E00D1A524 /* Release */ = {
+		D85C13ED24BA4FC100E6E1B6 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
@@ -553,43 +557,43 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		D8727AEA24BA393900D1A524 /* Build configuration list for PBXProject "iOS-Sandbox" */ = {
+		D85C13B624BA4FBF00E6E1B6 /* Build configuration list for PBXProject "iOS-Sandbox" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				D8727B1724BA393E00D1A524 /* Debug */,
-				D8727B1824BA393E00D1A524 /* Release */,
+				D85C13E324BA4FC100E6E1B6 /* Debug */,
+				D85C13E424BA4FC100E6E1B6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		D8727B1924BA393E00D1A524 /* Build configuration list for PBXNativeTarget "iOS-Sandbox" */ = {
+		D85C13E524BA4FC100E6E1B6 /* Build configuration list for PBXNativeTarget "iOS-Sandbox" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				D8727B1A24BA393E00D1A524 /* Debug */,
-				D8727B1B24BA393E00D1A524 /* Release */,
+				D85C13E624BA4FC100E6E1B6 /* Debug */,
+				D85C13E724BA4FC100E6E1B6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		D8727B1C24BA393E00D1A524 /* Build configuration list for PBXNativeTarget "iOS-SandboxTests" */ = {
+		D85C13E824BA4FC100E6E1B6 /* Build configuration list for PBXNativeTarget "iOS-SandboxTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				D8727B1D24BA393E00D1A524 /* Debug */,
-				D8727B1E24BA393E00D1A524 /* Release */,
+				D85C13E924BA4FC100E6E1B6 /* Debug */,
+				D85C13EA24BA4FC100E6E1B6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		D8727B1F24BA393E00D1A524 /* Build configuration list for PBXNativeTarget "iOS-SandboxUITests" */ = {
+		D85C13EB24BA4FC100E6E1B6 /* Build configuration list for PBXNativeTarget "iOS-SandboxUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				D8727B2024BA393E00D1A524 /* Debug */,
-				D8727B2124BA393E00D1A524 /* Release */,
+				D85C13EC24BA4FC100E6E1B6 /* Debug */,
+				D85C13ED24BA4FC100E6E1B6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = D8727AE724BA393900D1A524 /* Project object */;
+	rootObject = D85C13B324BA4FBF00E6E1B6 /* Project object */;
 }
